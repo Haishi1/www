@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<link rel="stylesheet" href="style.css" type="text/css"/>
+<title>O nas</title>
+<meta charset="utf-8">
+</head>
+<body>
+<div id="container">
+<div id="title">
+<h1>niemieckiehoryzonty.tk</h1>
+strona dla kucharzy
+</div>
+<a href="glowna.html"><div class="rect"> Główna</div></a>
+<a href="jakzrobic.html"><div class="rect">Jak zrobić</div></a>
+<a href="onas.html"><div class="rect"> O nas</div></a>
+<a href="kontakt.html"><div class="rect">Kontakt</div></a>
+<a href="historia.html"><div class="rect">Historia</div></a>
+<div class="onas">
+<br/>
+<img src="walterwhite.jpg" width=400 /> <br/>
+"Gotuję te cukierki od dawna, nie mógłbym bez tego żyć" - Włodzimierz Biały <br/>
+</div>
+<div class="onas">
+<br/>
+<img src="JessePinkman.webp" width=400 />
+<br/>"Gotuję z Włodzimierzem te cukierki od lat, nie wyobrażam sobie żyć bez robienia tych cukierków" - Józef Różowyczłowiek
+</div>
+</div>
+</body>
+</html>

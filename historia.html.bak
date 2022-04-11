@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<link rel="stylesheet" href="style.css" type="text/css"/>
+<title>Historia</title>
+<meta charset="utf-8">
+</head>
+<body>
+<div id="container">
+<div id="title">
+<h1>niemieckiehoryzonty.tk</h1>
+strona dla kucharzy
+</div>
+<a href="glowna.html"><div class="rect"> Główna</div></a>
+<a href="jakzrobic.html"><div class="rect">Jak zrobić</div></a>
+<a href="onas.html"><div class="rect"> O nas</div></a>
+<a href="kontakt.html"><div class="rect">Kontakt</div></a>
+<a href="historia.html"><div class="rect">Historia</div></a>
+<div id="glowna">
+<h1>Nasza historia jest wzruszająca</h1>
+Zaczynaliśmy robić cukierki w niewielkim kamperze, teraz produkujemy je na masową skalę. Pamiętaj, nie poddawaj się!
+</div>
+</div>
+</body>
+</html>

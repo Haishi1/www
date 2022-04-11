@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<link rel="stylesheet" href="style.css" type="text/css"/>
+<title>Potwierdzenie</title>
+<meta charset="utf-8">
+</head>
+<body>
+<div id="container">
+<div id="Głowna">
+<h1>Witamy na niemieckiehoryzonty.tk</h1>
+strona dla kucharzy
+</div>
+<div class="rect"> Główna</div>
+<div class="rect"> O nas</div>
+<div class="rect">Jak zrobić</div>
+<div class="rect">Kontakt</div>
+<div class="rect">Historia</div>
+<div id="article"></div>
+</div>
+</body>
+</html>

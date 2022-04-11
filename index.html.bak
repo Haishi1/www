@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<style>
+body{
+background-color: #0f0f0f;
+color: #ffffff;
+}
+#container
+{
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+text-align: center;
+font-size: 24px;
+}
+a:link
+{
+color:red;
+}
+a:visited
+{
+color:red;
+}
+a:hover
+{
+color:red;
+}
+</style>
+<title>Potwierdzenie</title>
+<meta charset="utf-8">
+</head>
+<body>
+<div id="container">
+	<h1>Dzień Dobry</h1>
+	Zanim przejdziesz do strony niemieckiehotyzonty.tk musiz kliknąć i zgodzić się z poniższą rzeczą </br>
+	<a href="glowna.html">Nie jestem członkiem agencji antynarkotykowej ani nie posiadam w rodzine lub gronie znajomych członka agencji antynarkotykowej</a>
+</div>
+</body>
+</html>
