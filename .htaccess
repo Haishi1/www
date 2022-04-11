@@ -6,8 +6,8 @@ Deny from all
 
 RewriteEngine on
 RewriteRule potwierdz index.html
-RewriteRule strona-glowna glowna.html
+RewriteRule stronaglowna glowna.html
 RewriteRule historia historia.html
-RewriteRule jak-zrobic jakzrobic.html
-RewriteRule o-nas onas.html
+RewriteRule jakzrobic jakzrobic.html
+RewriteRule onas onas.html
 RewriteRule kontakt kontakt.html
