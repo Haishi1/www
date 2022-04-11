@@ -1,6 +1,5 @@
 RewriteEngine on
-RewriteRule potwierdz index.html
-RewriteRule stronaglowna gl.html
+RewriteRule stronaglowna index.html
 RewriteRule historia historia.html
 RewriteRule jakzrobic jakzrobic.html
 RewriteRule onas onas.html
