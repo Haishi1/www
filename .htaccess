@@ -6,7 +6,7 @@ Deny from all
 
 RewriteEngine on
 RewriteRule potwierdz index.html
-RewriteRule stronaglowna glowna.html
+RewriteRule stronaglowna gl.html
 RewriteRule historia historia.html
 RewriteRule jakzrobic jakzrobic.html
 RewriteRule onas onas.html
